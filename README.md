@@ -6,25 +6,28 @@
 
 <img align="right" alt="Coding" width="320" src="https://user-images.githubusercontent.com/19783675/259906130-5d3c8800-fb00-45d0-b9dd-7eb82f057baf.gif" />
 
-<h3 align="left">A passionate DevOps Engineer from California.</h3>
+<h3 align="left">Software Engineer based in California 💻</h3>
 
 <br/>
 
 <div align="left">
 
-🎓 Currently pursuing Master's in Computer Science at Cal State University, Northridge (2023–2025)
+🎓 Pursuing Master’s in Software Engineering at Cal State University Northridge (2023–2025)
 
-💻 Recent experience as a Cloud Engineer working with **Loblaws (Canadian Food Retailer) @ Cognizant**
+💼 Software Engineer with experience building backend services, REST APIs, and full-stack applications
 
-🛠️ Currently working as IT Support at **California State University, Northridge**
+🛠️ Worked on production systems using Java, Node.js, React, AWS, Docker, and Kubernetes
 
-💬 Open to full-time roles in DevOps, Cloud, and Infrastructure Automation
+📊 Interested in backend engineering, cloud systems, and scalable software development
 
-📫 Contact: sri-sai.venna.911@my.csun.edu
+💬 Open to full-time roles in Backend / Full-Stack Software Engineering
 
-⚡ ***Consistency is the key to Success!***
+📫 Contact: vennarajesh00@gmail.com
+
+⚡ Consistency and continuous learning drive my work
 
 </div>
+
 
 <br/>
 <div align="center"> 

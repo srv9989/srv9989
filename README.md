@@ -14,19 +14,20 @@
 
 🎓 Pursuing Master’s in Software Engineering at Cal State University Northridge (2023–2025)
 
-💼 Software Engineer with experience building backend services, REST APIs, and full-stack applications
+💼 Software Engineer with experience in backend services, REST APIs, and full-stack application development
 
-🛠️ Worked on production systems using Java, Node.js, React, AWS, Docker, and Kubernetes
+🛠️ Skilled in Java, Node.js, React, AWS, and Python, focusing on building scalable and efficient software
 
-📊 Interested in backend engineering, cloud systems, and scalable software development
+🔍 Passionate about **problem-solving**, analyzing patterns, and designing optimized solutions
 
-💬 Open to full-time roles in Backend / Full-Stack Software Engineering
+💬 Open to full-time roles in **Software Engineering / Backend / Full-Stack Development**
 
 📫 Contact: vennarajesh00@gmail.com
 
-⚡ Consistency and continuous learning drive my work
+⚡ Consistency, curiosity, and continuous learning drive my work
 
 </div>
+
 
 
 <br/>

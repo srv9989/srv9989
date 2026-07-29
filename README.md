@@ -12,11 +12,11 @@
 
 <div align="left">
 
-🎓 Pursuing Master’s in Software Engineering at Cal State University Northridge (2023–2025)
+🎓 Master’s in Software Engineering at California State University Northridge (2023–2025)
 
 💼 Software Engineer with experience in backend services, REST APIs, and full-stack application development
 
-🛠️ Skilled in Java, Node.js, React, AWS, and Python, focusing on building scalable and efficient software
+🛠️ Skilled in Full Stack, focusing on building scalable and efficient software
 
 🔍 Passionate about **problem-solving**, analyzing patterns, and designing optimized solutions
 
